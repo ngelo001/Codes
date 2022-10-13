@@ -1,2 +1,3 @@
-# Codes
-# Self-made custom script and php function for WordPress
+# Custom Codes
+# Custom Script
+# Custom WordPress PHP Function
