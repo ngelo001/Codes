@@ -1,7 +1,7 @@
 jQuery(function($) {
     $(document).ready(function() {
-        equalHeight('.card');
-        equalHeight('.filter-option li');
+        equalHeight('.element');
+        equalHeight('.element');
     });
 
     function equalHeight($element) {
