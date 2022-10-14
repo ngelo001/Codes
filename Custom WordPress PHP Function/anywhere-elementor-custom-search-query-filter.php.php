@@ -1,4 +1,5 @@
 <?php
+//cpt_query_id is the Elementor Post Widget ID
 function cpt_search_function($query_args){  
     $booking_search = $_GET['booking_search'] ? $_GET['booking_search'] : '';
     $query_args =   array   (
