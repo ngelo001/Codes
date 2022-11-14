@@ -1,7 +1,7 @@
 jQuery(function($) {
     $(document).ready(function() {
-        equalHeight('.element');
-        equalHeight('.element');
+        equalHeight('.element1');
+        equalHeight('.element2');
     });
 
     function equalHeight($element) {
